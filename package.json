@@ -1,0 +1,19 @@
+{
+  "name": "mycontacts-backend-api",
+  "version": "1.0.0",
+  "description": "contact app in nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-Purohit/contactMangement.git"
+  },
+  "author": "Shivam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivam-Purohit/contactMangement/issues"
+  },
+  "homepage": "https://github.com/shivam-Purohit/contactMangement#readme"
+}
